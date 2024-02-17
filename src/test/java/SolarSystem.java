@@ -11,5 +11,7 @@ public class SolarSystem {
         xros.Color="pink";
         xros.temp="23243243243234k";
         xros.Size="234243432432432424miles";
+
+        System.out.println("my new added thing");
     }
 }
